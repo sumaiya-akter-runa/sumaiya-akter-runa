@@ -1,5 +1,6 @@
 #👋 Hi there, I'm Sumaiya Akter Runa!
-✨ Passionate Flutter Mobile App Developer | Intern at Brain Machine AI
+
+#✨ Passionate Flutter Mobile App Developer | Intern at Brain Machine AI
 
 ###🌟 About Me
 🔭 Currently Working: Developing innovative projects at Brain Machine AI.
