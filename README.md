@@ -27,6 +27,7 @@
 🌐 **LinkedIn**: [Sumaiya Akter Runa](https://www.linkedin.com/in/sumaiya-akter-runa-69b8b624a)  
 💻 **GitHub**: [sumaiya-akter-runa](https://github.com/sumaiya-akter-runa)  
 📧 **Email**: [sumaiya@brain-machine.com](mailto:sumaiya@brain-machine.com)  
+🌍 **Fiverr**: [sumaiyaakter831](https://www.fiverr.com/sumaiyaakter831/buying?source=avatar_menu_profile)
 
 ---
 
