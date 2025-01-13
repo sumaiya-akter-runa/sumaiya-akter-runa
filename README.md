@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi there 👋, I'm Sumaiya Akter Runa!  
 
-<!--
-**sumaiya-akter-runa/sumaiya-akter-runa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate **Flutter Mobile App Developer** and currently an **Intern at Brain Machine AI**. I enjoy creating efficient and user-friendly mobile applications while continuously learning and growing in the tech world.  
 
-Here are some ideas to get you started:
+### 🌟 About Me  
+- 🔭 I’m currently working on innovative projects at **Brain Machine AI**.  
+- 🌱 I’m currently learning **advanced Flutter techniques**, **state management**, and **backend integration**.  
+- 💬 Ask me about **Flutter development**, **UI/UX design**, and **full-stack development**.  
+- 👯 I’m looking to collaborate on exciting **open-source projects**.  
+- ⚡ Fun fact: I believe coffee and clean code are the ultimate productivity boosters!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with Me  
+- **LinkedIn**: [Sumaiya Akter Runa](https://www.linkedin.com/in/sumaiya-akter-runa-69b8b624a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- **GitHub**: [sumaiya-akter-runa](https://github.com/sumaiya-akter-runa)  
+- **Email**: [sumaiya@brain-machine.com](mailto:sumaiya@brain-machine.com)  
+
+### 🚀 Tools & Technologies  
+- **Languages**: Dart, JavaScript, Python, PHP, HTML, CSS, C, C++.  
+- **Frameworks**: Flutter, Django.  
+- **Databases**: MySQL, Oracle.  
+- **Tools**: Git, Visual Studio Code, Android Studio.  
+- **Design**: Figma, Adobe XD.  
+
+### 🌍 Let's Build Together!  
+I’m always open to discussions and collaborations. If you have an idea or project you'd like to work on together, feel free to reach out!  
+
