@@ -23,6 +23,13 @@
 
 ---
 
+## 📫 **Connect with Me**  
+🌐 **LinkedIn**: [Sumaiya Akter Runa](https://www.linkedin.com/in/sumaiya-akter-runa-69b8b624a)  
+💻 **GitHub**: [sumaiya-akter-runa](https://github.com/sumaiya-akter-runa)  
+📧 **Email**: [sumaiya@brain-machine.com](mailto:sumaiya@brain-machine.com)  
+
+---
+
 ## 🚀 **Tools & Technologies**  
 
 ### **Programming Languages**  
@@ -49,13 +56,6 @@
 ### **Design Tools**  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)  
-
----
-
-## 📫 **Connect with Me**  
-🌐 **LinkedIn**: [Sumaiya Akter Runa](https://www.linkedin.com/in/sumaiya-akter-runa-69b8b624a)  
-💻 **GitHub**: [sumaiya-akter-runa](https://github.com/sumaiya-akter-runa)  
-📧 **Email**: [sumaiya@brain-machine.com](mailto:sumaiya@brain-machine.com)  
 
 ---
 
