@@ -1,8 +1,6 @@
 #👋 Hi there, I'm Sumaiya Akter Runa!
 ✨ Passionate Flutter Mobile App Developer | Intern at Brain Machine AI
 
-Welcome to my GitHub profile! I thrive on creating efficient, user-friendly mobile applications while continuously expanding my skills in the ever-evolving tech world. Let’s innovate and build amazing projects together! 
-
 ###🌟 About Me
 🔭 Currently Working: Developing innovative projects at Brain Machine AI.
 🌱 Learning Focus: Mastering advanced Flutter techniques, state management, and backend integration.
