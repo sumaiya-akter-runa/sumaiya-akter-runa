@@ -1,5 +1,5 @@
 # 👋 **Hi there, I'm Sumaiya Akter Runa!**  
-✨ *Passionate Flutter Mobile App Developer | Intern at Brain Machine AI*
+✨ *Passionate Flutter Mobile App Developer *
 
 ---
 
