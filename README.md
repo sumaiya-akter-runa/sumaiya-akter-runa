@@ -1,170 +1,105 @@
-<h1 align="center">SUMAIYA AKTER RUNA</h1>
-
-<h3 align="center">Flutter Developer | AI-Powered Mobile Applications</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=2800&pause=800&color=7C83FD&center=true&vCenter=true&width=750&lines=Flutter+%7C+Dart+%7C+Mobile+Development;Backend+Integration+%7C+REST+APIs;Python+%7C+AI+%7C+Machine+Learning;LLM+Integration+%7C+RAG;Building+Reliable+Mobile+Applications" alt="Animated developer introduction" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/sumaiya-akter-runa">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/sumaiya-akter-runa-69b8b624a">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
----
-
-## PROFESSIONAL SUMMARY
-
-Flutter Developer with a Computer Science and Engineering background, focused on cross-platform mobile application development, backend integration, and AI-powered software solutions.
-
-Interested in building maintainable applications, integrating APIs and databases, and bringing machine learning capabilities into mobile products.
-
-**Career Interests:** Junior Flutter Developer, Mobile Application Developer, Flutter Developer with AI Integration.
-
----
-
 ## TECHNICAL SKILLS
 
-### Mobile Application Development
+### Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" alt="Flutter and Dart" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" alt="Flutter, Dart and Firebase" />
 </p>
 
-`Flutter` `Dart` `Android Development` `Cross-Platform Development` `State Management` `BLoC` `GetX` `Riverpod`
+`Flutter` `Dart` `BLoC` `GetX` `Riverpod` `Firebase` `REST API Integration` `Android Development`
 
 ### Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi&theme=dark" alt="Python, Django, and FastAPI" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,mysql,redis,docker" alt="Backend technologies" />
 </p>
 
-`Python` `Django REST Framework` `FastAPI` `REST API Integration` `API Development` `JSON` `JWT Authentication` `Backend Integration`
+`Python` `Django REST Framework` `FastAPI` `REST APIs` `JWT Authentication` `PostgreSQL` `MySQL` `Redis` `Celery` `Docker` `Render`
 
-### Databases and Data Management
+### Machine Learning and Model Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,redis&theme=dark" alt="Database technologies" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" alt="Python and TensorFlow" />
 </p>
 
-`PostgreSQL` `pgvector` `MySQL` `Firebase` `Database Integration` `Vector Search` `Redis`
+`TensorFlow` `TensorFlow Lite` `EfficientNetB0` `Image Classification` `Computer Vision` `Dataset Preparation` `Model Evaluation` `Image Preprocessing` `On-Device Inference`
 
-### Artificial Intelligence and Machine Learning
+### Generative AI and AI Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" alt="Python and TensorFlow" />
-</p>
-
-`Artificial Intelligence` `Machine Learning` `TensorFlow` `TensorFlow Lite` `EfficientNetB0` `Image Classification` `Computer Vision` `On-Device Inference`
-
-### LLM and Generative AI
-
-`Large Language Models (LLMs)` `LLM Integration` `Retrieval-Augmented Generation (RAG)` `Text Embeddings` `Semantic Search` `Groq API` `Llama` `Gemini API` `Document Question Answering`
-
-### Background Processing and Deployment
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,redis,git,github&theme=dark" alt="Deployment and development tools" />
-</p>
-
-`Docker` `Render` `Celery` `Redis` `Background Tasks` `Application Deployment` `Git` `GitHub` `Version Control`
+`Large Language Models (LLMs)` `Groq API` `Llama` `Gemini API` `Retrieval-Augmented Generation (RAG)` `Text Embeddings` `Semantic Search` `pgvector` `Document Question Answering` `AI API Integration`
 
 ### Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma&theme=dark" alt="Development and design tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma" alt="Development tools" />
 </p>
 
-`Android Studio` `Visual Studio Code` `Figma` `Debugging` `Problem Solving` `UI/UX Design`
+`Git` `GitHub` `VS Code` `Android Studio` `Debugging` `Problem Solving`
+
+### Additional Skill
+
+`UI/UX Design` `Figma`
+
 
 ---
 
-## BACKEND TECHNOLOGY STACK
+## MACHINE LEARNING EXPERIENCE
 
-| Area | Technologies |
-|---|---|
-| Language | Python |
-| Web Frameworks | Django REST Framework, FastAPI |
-| API Communication | REST APIs, JSON |
-| Authentication | JWT |
-| Relational Databases | PostgreSQL, MySQL |
-| Vector Search | pgvector, Embeddings |
-| Background Jobs | Celery |
-| Task Queue and Cache | Redis |
-| AI Services | Groq, Llama, Gemini |
-| Containerization | Docker |
-| Deployment | Render |
+### Image Classification and Model Evaluation
 
----
+Worked on image-classification models for an aquaculture-focused mobile AI application.
 
-## CORE TECHNICAL KEYWORDS
+**Fish Disease Classification**
+- Architecture: EfficientNetB0
+- Dataset: 5,257 images
+- Classes: 7
+- Input dimensions: 224 × 224 × 3 RGB
+- Training / validation / test split: 3,690 / 795 / 772 images
+- Reported test accuracy: 98.70%
 
-<p>
-  <img src="https://img.shields.io/badge/Mobile-Flutter%20Development-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter Development" />
-  <img src="https://img.shields.io/badge/Backend-REST%20API%20Integration-2496ED?style=flat-square" alt="REST API Integration" />
-  <img src="https://img.shields.io/badge/AI-LLM%20Integration-7C83FD?style=flat-square" alt="LLM Integration" />
-  <img src="https://img.shields.io/badge/AI-RAG-6C63FF?style=flat-square" alt="RAG" />
-  <img src="https://img.shields.io/badge/ML-TensorFlow%20Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow Lite" />
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/DevOps-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-</p>
+**Fish-versus-Non-Fish Classification**
+- Dataset: 12,090 balanced images
+- Fish images: 6,045
+- Non-fish images: 6,045
+- Reported test accuracy: 99.83%
+
+**Technical Focus**
+
+`Dataset Preparation` `Image Classification` `Model Evaluation` `TensorFlow` `EfficientNetB0` `TensorFlow Lite` `Image Preprocessing` `Mobile Inference`
+
+The models are intended for preliminary image screening. Further evaluation on diverse, locally collected images and real-world conditions is needed to assess generalization and practical reliability.
 
 ---
 
-## CURRENT LEARNING FOCUS
+## APPLIED AI ENGINEERING
 
-- Improving Flutter application architecture and state management.
-- Strengthening Python backend development and API design.
-- Understanding database design, SQL, and query optimization.
-- Learning reliable LLM integration and RAG implementation.
-- Exploring model inference and on-device AI deployment.
-- Improving testing, debugging, and production deployment practices.
+My development interests include connecting AI models and language-model services to usable applications and backend systems.
 
----
+**Areas of practical work**
+- Integrating machine-learning models with Flutter applications.
+- Exploring on-device inference using TensorFlow Lite.
+- Building document-grounded question-answering workflows using embeddings and vector search.
+- Working with PostgreSQL and pgvector for vector-based retrieval.
+- Integrating hosted language models through APIs.
+- Working with background processing and containerized backend deployment.
+- Validating AI-generated output and handling model or provider failures.
 
-## GITHUB STATISTICS
+**Related Technologies**
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sumaiya-akter-runa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiya-akter-runa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumaiya-akter-runa&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution graph" />
-</p>
+`Python` `TensorFlow` `TensorFlow Lite` `FastAPI` `Django REST Framework` `PostgreSQL` `pgvector` `Celery` `Redis` `Docker` `Groq` `Llama`
 
 ---
 
-## CONNECT WITH ME
+## CURRENT LEARNING FOCUS — AI ENGINEERING
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sumaiya-akter-runa-69b8b624a">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/sumaiya-akter-runa">
-    <img src="https://img.shields.io/badge/GitHub-My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.behance.net/sumaiyaakter89">
-    <img src="https://img.shields.io/badge/Behance-Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
-  </a>
-</p>
+- Python for data processing and AI development.
+- NumPy and Pandas for dataset analysis.
+- Statistics and machine-learning fundamentals.
+- scikit-learn for traditional machine-learning workflows.
+- PyTorch and deep-learning fundamentals.
+- Model evaluation, error analysis, and generalization.
+- Model serving through APIs.
+- Inference latency, memory usage, and performance optimization.
+- AI deployment, monitoring, and reproducibility.
 
-<p align="center">
-  <a href="mailto:sumaiya@brain-machine.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=3&section=footer" alt="Footer divider" />
-</p>
-
-<p align="center">
-  <b>Build. Learn. Improve. Deliver.</b>
-</p>
+My long-term goal is to develop reliable AI systems that connect model development, inference, backend services, and real-world applications.
