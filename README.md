@@ -1,197 +1,155 @@
+<!-- ==================== HEADER ==================== -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=150&section=header&text=Sumaiya%20Akter%20Runa&fontSize=34&fontColor=E6EDF3&fontAlignY=38&animation=fadeIn" alt="Sumaiya Akter Runa"/>
+# SUMAIYA AKTER RUNA
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=600&lines=Flutter+App+Developer;Building+AI-Powered+Mobile+Applications;Flutter+%7C+Dart+%7C+Firebase+%7C+REST+APIs" alt="Animated introduction"/>
+### Flutter App Developer
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=Flutter+%26+Dart+Developer;Building+AI-Powered+Mobile+Applications;Mobile+Apps+%7C+APIs+%7C+Firebase;Learning%2C+Building%2C+Improving" alt="Animated introduction" />
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,django,fastapi,postgres,docker&theme=dark&perline=8" alt="Technical skills"/>
+<p>
+  <img src="https://img.shields.io/badge/Flutter-Mobile%20Development-64748b?style=flat-square&logo=flutter&logoColor=white" alt="Flutter Developer" />
+  <img src="https://img.shields.io/badge/Dart-Application%20Development-64748b?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Firebase-Backend%20Integration-64748b?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
+</p>
 
-<br/><br/>
-
-<a href="https://github.com/sumaiya-akter-runa">
-<img src="https://img.shields.io/badge/Flutter-App%20Developer-8B949E?style=flat-square&logo=flutter&logoColor=white" alt="Flutter App Developer"/>
-</a>
-<a href="https://github.com/sumaiya-akter-runa">
-<img src="https://img.shields.io/badge/Focus-AI--Powered%20Apps-8B949E?style=flat-square&logo=googlecloud&logoColor=white" alt="AI powered applications"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:334155,50:8B5CF6,100:334155&height=3&section=header" width="85%" alt="Decorative divider" />
 
 </div>
 
----
+<!-- ==================== ABOUT ME ==================== -->
 
 ## About Me
 
-I'm **Sumaiya Akter Runa**, a Flutter App Developer passionate about building practical, reliable, and user-friendly mobile applications.
+Hi! I'm **Sumaiya Akter Runa**, a Computer Science and Engineering graduate interested in building useful, user-friendly mobile applications.
 
-I work with Flutter and Dart to develop cross-platform applications, integrate backend services, and explore AI-powered features that make mobile experiences more useful and intelligent.
+- 📱 Focused on **Flutter App Development**
+- 💻 Working with Flutter, Dart, Firebase and REST APIs
+- 🎨 Interested in clean UI/UX and accessible interfaces
+- 🤖 Exploring AI-powered features for mobile applications
+- 🌱 Continuously learning and improving my development skills
 
-- Developing mobile applications with Flutter and Dart.
-- Integrating REST APIs, Firebase, authentication, and backend services.
-- Exploring AI-powered features and machine learning integration in mobile apps.
-- Working with databases, application architecture, and deployment workflows.
-- Improving application quality through debugging and problem-solving.
-
-My focus is on building reliable applications by combining mobile development, backend integration, and intelligent features.
-
----
-
-## Technical Skills
-
-### Mobile Application Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio&theme=dark" alt="Mobile development technologies"/>
-</p>
-
-`Flutter` `Dart` `BLoC` `GetX` `Riverpod` `Firebase` `REST API Integration` `Cross-Platform Development` `Android Development` `Responsive UI`
-
-### Backend Development & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,mysql,redis,docker&theme=dark" alt="Backend technologies"/>
-</p>
-
-`Python` `Django REST Framework` `FastAPI` `REST APIs` `JWT Authentication` `PostgreSQL` `MySQL` `pgvector` `Redis` `Celery` `Docker` `Render`
-
-### AI-Powered Application Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" alt="Python and TensorFlow"/>
-</p>
-
-`AI API Integration` `Large Language Models (LLMs)` `Groq API` `Gemini API` `Retrieval-Augmented Generation (RAG)` `Text Embeddings` `Semantic Search` `TensorFlow` `TensorFlow Lite` `Computer Vision` `Image Classification` `Model Evaluation` `On-Device Inference`
-
-### Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,postman&theme=dark" alt="Development tools"/>
-</p>
-
-`Git` `GitHub` `VS Code` `Android Studio` `Figma` `Postman` `Debugging` `Problem Solving` `API Testing` `Technical Documentation`
-
-### Additional Skills
-
-`UI/UX Design` `Database Integration` `Authentication` `Team Collaboration` `Continuous Learning`
-
----
-
-## What I Build
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Mobile Applications</strong>
-      <p>Cross-platform Flutter applications with responsive interfaces, authentication, API integration, and reliable application flows.</p>
-    </td>
-    <td width="50%" valign="top">
-      <strong>AI-Powered Mobile Experiences</strong>
-      <p>Mobile applications enhanced with language models, AI APIs, intelligent features, and machine learning integration.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Backend Integration</strong>
-      <p>Connecting mobile applications with REST APIs, databases, authentication systems, and external services.</p>
-    </td>
-    <td width="50%" valign="top">
-      <strong>Machine Learning Integration</strong>
-      <p>Exploring image classification, TensorFlow Lite, model evaluation, and on-device inference.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## Machine Learning Experience
-
-My work includes developing and evaluating image-classification models for an aquaculture-focused mobile application.
-
-| Technical Area | Experience |
-|---|---|
-| Model architecture | EfficientNetB0 |
-| Dataset preparation | Image preprocessing and dataset splitting |
-| Classification | Multiclass and binary image classification |
-| Model evaluation | Test-set evaluation and accuracy measurement |
-| Mobile integration | Exploring TensorFlow Lite and on-device inference |
-
-**Reported evaluation results**
-
-| Model | Dataset Size | Reported Test Accuracy |
-|---|---:|---:|
-| Fish disease classification | 5,257 images | 98.70% |
-| Fish-versus-non-fish classification | 12,090 images | 99.83% |
-
-*These are reported test-set results, not guarantees of real-world performance. Generalization requires further evaluation using diverse real-world data.*
-
----
-
-## Applied AI & Backend Integration
-
-- Integrating hosted language models into application workflows.
-- Working with document-based question answering and Retrieval-Augmented Generation.
-- Exploring embeddings and vector search with PostgreSQL and pgvector.
-- Connecting machine learning capabilities with mobile applications.
-- Working with backend APIs, authentication, and database integration.
-- Exploring output validation, error handling, and reliable AI application workflows.
-- Working with Docker-based backend deployment.
-
----
-
-## Current Learning Focus
-
-- Improving Flutter architecture and state management.
-- Strengthening Python and data-processing fundamentals.
-- Learning machine learning workflows and model evaluation.
-- Exploring AI-powered application development.
-- Improving API design and backend integration.
-- Learning more about model serving and inference optimization.
-- Building maintainable, reliable, and scalable applications.
-
----
-
-## GitHub Statistics
+<!-- ==================== CODING ANIMATION ==================== -->
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=sumaiya-akter-runa&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub statistics"/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiya-akter-runa&layout=compact&hide_border=true&theme=github_dark&langs_count=6" alt="Most used programming languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=sumaiya-akter-runa&theme=github-dark-blue&hide_border=true" width="70%" alt="GitHub contribution streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumaiya-akter-runa&bg_color=0d1117&color=8b949e&line=6e7681&point=c9d1d9&area=true&hide_border=true" width="98%" alt="GitHub contribution activity"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Animated coding illustration" />
 
 </div>
 
----
+<!-- ==================== TECH STACK ==================== -->
+
+## Technical Skills
+
+### Mobile App Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,firebase" alt="Flutter, Dart, Android Studio and Firebase" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/State%20Management-BLoC%20%7C%20GetX%20%7C%20Riverpod-374151?style=flat-square" alt="State Management" />
+  <img src="https://img.shields.io/badge/API-REST%20API-374151?style=flat-square" alt="REST APIs" />
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,mysql,redis,docker" alt="Backend and database technologies" />
+</p>
+
+### AI-Powered Applications
+
+<p>
+  <img src="https://img.shields.io/badge/LLM%20APIs-Gemini%20%7C%20Groq-374151?style=flat-square" alt="LLM APIs" />
+  <img src="https://img.shields.io/badge/AI-RAG%20%26%20Embeddings-374151?style=flat-square" alt="RAG and embeddings" />
+  <img src="https://img.shields.io/badge/ML-TensorFlow%20%7C%20TFLite-374151?style=flat-square&logo=tensorflow&logoColor=orange" alt="Machine Learning" />
+</p>
+
+### UI/UX & Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,postman" alt="Figma, Git, GitHub, VS Code and Postman" />
+</p>
+
+<!-- ==================== AREAS OF INTEREST ==================== -->
+
+## Areas of Interest
+
+| Area | Focus |
+|---|---|
+| Mobile Development | Flutter, Dart, responsive UI and app architecture |
+| Backend Integration | REST APIs, authentication and databases |
+| UI/UX Design | User-centered design, wireframes and prototyping |
+| AI-Powered Apps | LLM integration, RAG and on-device ML exploration |
+
+<!-- ==================== CURRENTLY LEARNING ==================== -->
+
+## Currently Learning
+
+- Building maintainable Flutter applications
+- Backend development with Python and FastAPI
+- Integrating AI capabilities into mobile applications
+- Improving software architecture and deployment skills
+
+<!-- ==================== GITHUB ACTIVITY ==================== -->
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sumaiya-akter-runa&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiya-akter-runa&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Most used programming languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=sumaiya-akter-runa&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak" width="70%" />
+
+</div>
+
+### Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumaiya-akter-runa&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=A78BFA&area=true&hide_border=true" width="95%" alt="GitHub contribution activity graph" />
+
+</div>
+
+<!-- ==================== CONNECT ==================== -->
 
 ## Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/sumaiya-akter-runa-69b8b624a">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-8B949E?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-374151?style=for-the-badge&logo=linkedin&logoColor=8AB4F8" alt="LinkedIn" />
 </a>
 <a href="https://github.com/sumaiya-akter-runa">
-<img src="https://img.shields.io/badge/GitHub-Follow-8B949E?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-My%20Repositories-374151?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
 </a>
 <a href="https://www.behance.net/sumaiyaakter89">
-<img src="https://img.shields.io/badge/Behance-Portfolio-8B949E?style=flat-square&logo=behance&logoColor=white" alt="Behance"/>
+  <img src="https://img.shields.io/badge/Behance-UI%2FUX%20Design-374151?style=for-the-badge&logo=behance&logoColor=8AB4F8" alt="Behance" />
 </a>
 <a href="https://dribbble.com/Runa_Akter">
-<img src="https://img.shields.io/badge/Dribbble-Portfolio-8B949E?style=flat-square&logo=dribbble&logoColor=white" alt="Dribbble"/>
+  <img src="https://img.shields.io/badge/Dribbble-Design%20Portfolio-374151?style=for-the-badge&logo=dribbble&logoColor=F9A8D4" alt="Dribbble" />
 </a>
-
-<br/><br/>
-
-**Flutter • Dart • Backend Integration • AI-Powered Applications**
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=80&section=footer" width="100%" alt="Minimal footer banner"/>
+<!-- ==================== FOOTER ==================== -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:334155,50:8B5CF6,100:334155&height=3&section=footer" width="85%" alt="Decorative footer divider" />
+
+<i>Building with curiosity. Growing with every commit.</i>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=sumaiya-akter-runa&style=flat-square&color=64748b&label=Profile+Views" alt="Profile views" />
+
+</div>
