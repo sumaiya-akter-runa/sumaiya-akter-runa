@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,50:312E81,100:4338CA&text=Sumaiya%20Akter%20Runa&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Flutter%20Developer%20%7C%20AI%20Engineering&descAlignY=58&descSize=17" width="100%" alt="Animated profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:4338CA,100:7C3AED&height=220&section=header&text=Sumaiya%20Akter%20Runa&fontSize=38&fontColor=FFFFFF&fontAlignY=35&desc=Flutter%20App%20Developer&descSize=20&descAlignY=55&animation=fadeIn" width="100%" alt="Profile banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1200&color=6366F1&center=true&vCenter=true&width=800&lines=Flutter+%26+Mobile+Application+Developer;Applied+AI+%26+Machine+Learning;Python+%7C+Backend+%7C+LLM+Integration;Building+Reliable+AI-Powered+Applications" alt="Animated typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+Beautiful+Flutter+Applications;Developing+AI-Powered+Mobile+Experiences;Flutter+%7C+Dart+%7C+Firebase+%7C+REST+APIs;Turning+Ideas+Into+Useful+Applications" alt="Animated introduction" />
 
 <br/>
 
 <a href="https://github.com/sumaiya-akter-runa">
-  <img src="https://komarev.com/ghpvc/?username=sumaiya-akter-runa&style=flat-square&color=6366F1&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sumaiya-akter-runa&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
 </a>
 <a href="https://github.com/sumaiya-akter-runa?tab=followers">
-  <img src="https://img.shields.io/github/followers/sumaiya-akter-runa?style=flat-square&color=6366F1&label=Followers" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/followers/sumaiya-akter-runa?style=flat-square&color=7C3AED&label=Followers" alt="GitHub followers" />
 </a>
 
 </div>
@@ -19,113 +19,78 @@
 
 ## About Me
 
-I am a Computer Science graduate and Flutter Developer with a growing focus on Artificial Intelligence, Machine Learning, and AI Engineering.
+Hello! I'm Sumaiya Akter Runa, a Flutter App Developer passionate about building modern, user-friendly, and intelligent mobile applications.
 
-I enjoy building practical applications that connect mobile interfaces, backend services, databases, machine learning models, and large language models.
+I work with Flutter and Dart to develop cross-platform applications, integrate backend services, and connect applications with AI-powered features. I enjoy learning new technologies, solving development challenges, and turning ideas into practical digital experiences.
 
-My focus is on writing maintainable application code, integrating APIs, evaluating machine learning models, and exploring ways to deploy AI capabilities into real-world applications.
+- Developing cross-platform mobile applications with Flutter and Dart.
+- Integrating REST APIs, Firebase, authentication, and backend services.
+- Exploring AI-powered features and machine learning integration in mobile apps.
+- Working with databases, application architecture, and deployment workflows.
+- Continuously improving my coding, debugging, and problem-solving skills.
 
-- Mobile application development with Flutter and Dart
-- Backend development and REST API integration
-- Machine learning, computer vision, and image classification
-- LLM integration, embeddings, and Retrieval-Augmented Generation (RAG)
-- Database integration, model evaluation, and deployment workflows
-- Continuous learning in AI engineering and model inference
-
-**Career focus:** Flutter Developer | AI/ML Engineer | AI Engineer
+**My focus:** Building reliable mobile applications with useful, intelligent features.
 
 ---
 
 ## Technical Skills
 
-### Mobile Application Development
+### Mobile App Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" alt="Flutter, Dart and Firebase" />
 </p>
 
-`Flutter` `Dart` `State Management` `BLoC` `GetX` `Riverpod` `Firebase` `REST API Integration` `Android Development` `Debugging`
+`Flutter` `Dart` `Cross-Platform Development` `BLoC` `GetX` `Riverpod` `Firebase` `REST API Integration` `Android Development`
 
-### Backend Engineering
+### Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,mysql,redis,docker" alt="Python, Django, FastAPI, PostgreSQL, MySQL, Redis and Docker" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,mysql,redis,docker" alt="Backend and database technologies" />
 </p>
 
-`Python` `Django REST Framework` `FastAPI` `REST APIs` `JWT Authentication` `PostgreSQL` `MySQL` `pgvector` `Redis` `Celery` `Docker` `Render`
+`Python` `Django REST Framework` `FastAPI` `REST APIs` `JWT Authentication` `PostgreSQL` `MySQL` `Firebase` `Redis` `Celery` `Docker`
 
-### Machine Learning & Computer Vision
+### AI-Powered Application Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,tensorflow" alt="Python and TensorFlow" />
 </p>
 
-`TensorFlow` `TensorFlow Lite` `EfficientNetB0` `Image Classification` `Computer Vision` `Dataset Preparation` `Image Preprocessing` `Model Evaluation` `Train/Validation/Test Splits` `On-Device Inference`
+`AI API Integration` `LLM Integration` `Groq API` `Gemini API` `Retrieval-Augmented Generation (RAG)` `Text Embeddings` `Semantic Search` `TensorFlow` `TensorFlow Lite` `Computer Vision` `Image Classification` `On-Device Inference`
 
-### Generative AI & LLM Engineering
-
-`Large Language Models (LLMs)` `Groq API` `Llama` `Gemini API` `Retrieval-Augmented Generation (RAG)` `Text Embeddings` `Vector Search` `Semantic Search` `pgvector` `Document Question Answering` `Prompt Engineering` `AI API Integration` `Output Validation`
-
-### Databases, Tools & Deployment
+### Tools & Workflow
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,docker,postgres" alt="Git, GitHub, VS Code, Android Studio, Figma, Docker and PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,docker" alt="Development tools" />
 </p>
 
-`Git` `GitHub` `VS Code` `Android Studio` `Docker` `Database Integration` `API Testing` `Debugging` `Problem Solving` `Deployment Workflows`
+`Git` `GitHub` `VS Code` `Android Studio` `Docker` `Debugging` `Problem Solving` `API Integration` `Technical Documentation`
 
 ### Additional Skills
 
-`UI/UX Design` `Figma` `Technical Documentation` `Research` `Team Collaboration`
+`UI/UX Design` `Figma` `Team Collaboration` `Continuous Learning`
 
 ---
 
-## Applied AI & Engineering Experience
+## What I Enjoy Building
 
-My technical work and learning focus on connecting AI models with usable applications and backend systems.
-
-- **Machine Learning:** Dataset preparation, image preprocessing, classification, and model evaluation.
-- **Computer Vision:** Image classification using TensorFlow and EfficientNetB0.
-- **Mobile AI:** Exploring TensorFlow Lite integration and on-device model inference.
-- **LLM Applications:** Integrating hosted language models into application workflows.
-- **RAG Systems:** Working with document processing, text embeddings, vector retrieval, and context-grounded answers.
-- **Backend Integration:** Connecting mobile applications with APIs, databases, and AI services.
-- **AI Reliability:** Exploring output validation, error handling, provider fallback, and source-grounded responses.
-- **Deployment:** Working with Docker-based backend deployment workflows.
+- **Mobile Applications:** Clean, responsive, and practical Flutter applications.
+- **AI-Powered Apps:** Mobile experiences enhanced with language models, AI APIs, and intelligent features.
+- **Connected Applications:** Apps integrated with REST APIs, Firebase, databases, and backend services.
+- **Machine Learning Integration:** Exploring image classification and on-device model inference with TensorFlow Lite.
 
 ---
 
-## Machine Learning Evaluation
+## Technologies I Am Exploring
 
-Experience with image-classification workflows for an aquaculture-focused application.
+I am continuously expanding my knowledge to build better mobile applications and integrate more advanced capabilities.
 
-| Evaluation Area | Fish Disease Classification | Fish/Non-Fish Classification |
-|---|---|---|
-| Approach | Multiclass classification | Binary classification |
-| Dataset size | 5,257 images | 12,090 images |
-| Model | EfficientNetB0 | Separate classification model |
-| Reported test accuracy | 98.70% | 99.83% |
-
-`TensorFlow` `Image Classification` `Dataset Preparation` `Model Evaluation` `TensorFlow Lite`
-
-*Reported evaluation metrics should be interpreted in the context of their test datasets. Further validation on diverse real-world data is necessary to assess generalization.*
-
----
-
-## Current Learning Focus
-
-My long-term goal is to develop strong AI engineering skills while continuing to build reliable mobile and backend applications.
-
-- Python for AI and data processing
-- NumPy and Pandas
-- Statistics and machine learning fundamentals
-- scikit-learn and model evaluation
-- PyTorch and deep learning
-- Feature engineering and explainable AI
-- Model serving through APIs
-- Inference latency and memory optimization
-- AI deployment, monitoring, and reproducibility
-- Scalable AI application architecture
+- Improving Flutter architecture and state management.
+- Building scalable backend integrations.
+- Learning more about machine learning workflows and model evaluation.
+- Exploring AI-powered application features and document-based question answering.
+- Improving application performance, reliability, and deployment practices.
 
 ---
 
@@ -137,23 +102,23 @@ My long-term goal is to develop strong AI engineering skills while continuing to
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiya-akter-runa&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most used programming languages" />
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=sumaiya-akter-runa&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="70%" />
+<img src="https://streak-stats.demolab.com?user=sumaiya-akter-runa&theme=tokyonight&hide_border=true" width="70%" alt="GitHub contribution streak" />
 
 </div>
 
 ---
 
-## Connect With Me
+## Let's Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/sumaiya-akter-runa-69b8b624a">
-  <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://github.com/sumaiya-akter-runa">
-  <img src="https://img.shields.io/badge/GitHub-My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://www.behance.net/sumaiyaakter89">
   <img src="https://img.shields.io/badge/Behance-Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
@@ -164,8 +129,8 @@ My long-term goal is to develop strong AI engineering skills while continuing to
 
 <br/><br/>
 
-**Building mobile applications today. Engineering intelligent systems for tomorrow.**
+*Building mobile apps. Exploring intelligent experiences. Learning every day.*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4338CA,50:312E81,100:0F172A&height=100&section=footer" width="100%" alt="Decorative animated footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4338CA,100:111827&height=100&section=footer" width="100%" alt="Profile footer" />
