@@ -29,22 +29,22 @@
 
 ---
 
-## `01` — WHO AM I?
+## `01` — ABOUT ME
 
 <img align="right" width="145" src="https://skillicons.dev/icons?i=flutter,dart,python&perline=2" alt="Flutter, Dart and Python"/>
 
-I'm **Sumaiya Akter Runa**, a Flutter App Developer interested in creating practical, reliable, and intelligent mobile applications.
+I'm **Sumaiya Akter Runa**, a Flutter developer who builds practical, reliable mobile apps with AI features. I'm a final-year CSE student at IIUC.
 
-I enjoy working across mobile development, backend integration, databases, and AI-powered features to turn ideas into useful digital products.
+I work across the full stack: Flutter frontends, REST backends, databases, and AI. My focus is making AI features trustworthy inside real products, by grounding answers in real data and keeping the user in control.
 
-- Developing cross-platform mobile applications with Flutter.
-- Integrating REST APIs, Firebase, and backend services.
-- Exploring AI-powered features for mobile applications.
-- Working with machine learning models and model integration.
-- Improving application quality through debugging and problem-solving.
+- Building cross-platform mobile apps with **Flutter** and Dart.
+- Connecting apps to **Django REST** and **FastAPI** backends with JWT auth, PostgreSQL, Firebase and Docker.
+- Integrating **LLMs** (Groq, Gemini) into mobile products, with guardrails such as database-backed prices and stock in [ReplyPilot AI](https://github.com/sumaiya-akter-runa/reply_pilot).
+- Building **RAG** pipelines: Gemini embeddings in pgvector, so answers come from a user's own PDF with page citations, in [StudyMate AI](https://github.com/sumaiya-akter-runa/studymate).
+- Training and deploying on-device **TensorFlow Lite** models (EfficientNetB0) for fish-disease screening in AquaGuard AI.
+- Debugging, and verifying solutions against documentation.
 
 <br clear="right"/>
-
 ---
 
 ## `02` — TECH STACK
