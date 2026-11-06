@@ -45,7 +45,8 @@ I work across the full stack: Flutter frontends, REST backends, databases, and A
 - Debugging, and verifying solutions against documentation.
 
 <br clear="right"/>
----
+
+
 
 ## `02` — TECH STACK
 
